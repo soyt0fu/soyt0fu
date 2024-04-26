@@ -1,4 +1,4 @@
-### Olá, ☺
+### oi, ☺
 
 #### uma aprendiz eternoa, explorando o mundo do desenvolvimento iOS.
 - 📱 atualmente aprendendo: `Swift`, `UIKit`, `SwiftUI` e `arquitetura de aplicativos iOS`.
