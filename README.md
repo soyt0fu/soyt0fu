@@ -1,6 +1,6 @@
 ### Hello, ☺
 
-#### Uma entusiasta em constante aprendizado, explorando o mundo do desenvolvimento iOS.
+#### A perpetual learner, delving into the realm of iOS development.
 - 📱 Currently learning: `Swift`, `UIKit`, `SwiftUI`, and `iOS app architecture`.
 - 🌱 Excited to expand my knowledge and tackle new challenges in iOS development.
 
