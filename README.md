@@ -1,7 +1,7 @@
 ### Olá, ☺
 
 #### Uma entusiasta em constante aprendizado, explorando o mundo do desenvolvimento iOS.
-- 📱 Estou apredendo: Swift, UIKit, SwiftUI e arquitetura de aplicativos iOS.
+- 📱 Estou apredendo: `Swift`, `UIKit`, `SwiftUI` e `arquitetura de aplicativos iOS`.
 - 🌱 Animada para expandir meu conhecimento e enfrentar novos desafios no desenvolvimento iOS.
 
 
